@@ -1,0 +1,114 @@
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+D:\Programs\Vb.net\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.grocerySection.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.FruitsandVegetables.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Utensils.resources
+C:\Users\ADMIN\source\repos\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.BeautyProducts.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.BeautyProducts.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Billing.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.FruitsandVegetables.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.grocerySection.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Utensils.resources
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+C:\Users\Admin\OneDrive\Desktop\Vb.net Program\GAD MICROPROJECT\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
+D:\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+D:\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+D:\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+D:\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.BeautyProducts.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Billing.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.FruitsandVegetables.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.grocerySection.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Utensils.resources
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+D:\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.BeautyProducts.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Billing.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.FruitsandVegetables.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.grocerySection.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Utensils.resources
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+C:\Users\YASH SALUNKE\Desktop\GAD\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
+D:\Semester 4\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe.config
+D:\Semester 4\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.exe
+D:\Semester 4\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.pdb
+D:\Semester 4\Shopping_Mart\Shopping_Mart\bin\Debug\Shopping_Mart.xml
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.AssemblyReference.cache
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.SuggestedBindingRedirects.cache
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.BeautyProducts.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Billing.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Fashion_Section.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Form1.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.FruitsandVegetables.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.grocerySection.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Resources.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Section.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.Utensils.resources
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.GenerateResource.cache
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.vbproj.CoreCompileInputs.cache
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.exe
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.xml
+D:\Semester 4\Shopping_Mart\Shopping_Mart\obj\Debug\Shopping_Mart.pdb
